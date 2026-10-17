@@ -9,7 +9,7 @@
 <br>
  <div align="center">
 <details>
-  <summary>pony town achievements</summary>
+  <summary>𝐩ony 𝐭own 𝐚ch𝖎evements</summary>
   <br>
 
 <div align="center">
