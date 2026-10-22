@@ -9,13 +9,13 @@
 <br>
  <div align="center">
 <details>
-  <summary>𝐩ony 𝐭own 𝐚ch𝖎evements</summary>
+  <summary>꣑ৎ</summary>
   <br>
 
 <div align="center">
   <tr>
     <th>
-  I appreciate it sm
+  TYSM 
 
 ##### <p align="center"> [fans town](https://github.com/fans-town) ⠀ [walk of fame](https://github.com/pt-walk-of-fame)  ⠀[pt hall of media](https://github.com/pt-hall-of-media) ⠀⠀[pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀⠀[pt contributers](https://github.com/pt-contributers) ⠀⠀[title town](https://github.com/title-town) ⠀ ⠀[pt fashion](https://github.com/pt-fashion) ⠀ [pony achievements](https://github.com/ponychievements) ⠀⠀[characters of pt](https://github.com/charactersofpt)  ⠀[pony town nominations](https://github.com/ponytown-nominations) ⠀ [pt medals](https://github.com/pt-medals) ⠀ [folktown](https://github.com/FOLKTOWN) ⠀ [pony town rewards](https://github.com/Ponytowns-rewards)⠀ [music town](https://github.com/music-town)</p>
 </th>
