@@ -8,7 +8,7 @@
 <br>
  <div align="center">
 <details>
-  <summary>꣑ৎ</summary>
+  <summary>𝝑𝟈</summary>
   <br>
 <div align="center">
   <tr>
