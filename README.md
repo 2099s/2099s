@@ -1,8 +1,7 @@
-<!--hiiii-->
+<!--miguel-->
 
 <p align="center">
-<a href="https://hits.sh/github.com/2099s/hits/"><img alt="2099" src="https://hits.sh/github.com/2099s/hits.svg?label=spiders&color=be0101&labelColor=030418"/></a>
-<a href="https://hits.sh/github.com/spiderdads/hits/"><img alt="2099" src="https://hits.sh/github.com/spiderdads/hits.svg?label=%20%E2%99%A1&color=030418&labelColor=be0101"/></a> 
+
 
 <div align="center">
 
