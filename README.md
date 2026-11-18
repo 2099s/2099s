@@ -1,7 +1,14 @@
 <img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
 
+<table>
+  <tr>
+      <td>
 
+ ${\color{#670006}Pony \space To \color{#900101}wns \space \color{#ab0000}Mig \color{#ba0303}uel \space \color{#900101}O \color{#670006} Hara}$
+
+  <td>
+ <tr>
 
 </div>
 
@@ -21,14 +28,7 @@
 
 </details>
 wip
-ㅤ
-</details>
 
-<table>
-  <tr>
-      <td>
-
- ${\color{#670006}Pony \space To \color{#900101}wns \space \color{#ab0000}Mig \color{#ba0303}uel \space \color{#900101}O \color{#670006} Hara}$
 
 
 
