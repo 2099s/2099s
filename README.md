@@ -23,7 +23,7 @@
 
 </details>
 
-$${\color{#9a0603}spider-man 2099 enthusiast }$$
+wip
 
 <p align="left">ㅤ
 <table>
