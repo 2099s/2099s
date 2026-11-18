@@ -23,8 +23,6 @@
 
 </details>
 
-wip
-
 <p align="left">ㅤ
 <table>
   <tr>
