@@ -20,14 +20,14 @@
 </details>
 wip
 
-ㅤ
+<p align="left">ㅤ
 <table>
   <tr>
       <td>
      ${\color{#670006}Pony \space To \color{#900101}wns \space \color{#ab0000}Mig \color{#ba0303}uel \space \color{#900101}O \color{#670006} Hara}$ <br>
    </td>
     </tr>
-
+<p align="left">
 
 
 
