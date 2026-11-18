@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?label=spiders&color=900202&labelColor=09090d"/></a>
-<p align="center">
+
   
 <img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
@@ -33,7 +31,9 @@
 <p align="left">
 
 
-
+<p align="center">
+<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?label=spiders&color=900202&labelColor=09090d"/></a>
+<p align="center">
 
 <!--miguel-->
 
