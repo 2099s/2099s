@@ -28,7 +28,7 @@ wip
 <table>
   <tr>
       <td>
-     ${\color{#720000}Pony \space To \color{#840000}wns \space \color{#9e0000}Mig \color{#bd0000}uel \space \color{#d30000}O \color{#e80000} Hara}$ <br>
+     ${\color{#e10400}P\color{#b70000}o\color{#8a0000}n\color{#580000}y \space \color{#e10400}T\color{#b70000}o \color{#8a0000}w\color{#580000}n\color{#580000}s \space \color{#e10400}M\color{#b70000}i\color{#8a0000}g \color{#580000}u\color{#580000}e\color{#580000}l \space \color{#e10400}O \color{#b70000} H\color{#8a0000}a\color{#580000}r\color{#580000}a}$ <br>
    </td>
     </tr>
 <p align="left">
