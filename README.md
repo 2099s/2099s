@@ -8,12 +8,6 @@
 <img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
 
-<div align="left">
-
-<p align="center">
-<a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=25&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>    
-<p align="left">
-
 </div>
 
 $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$  
@@ -30,13 +24,15 @@ $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$
 
 <!--miguel-->
 
-text
+$\color{#970000}\text{aby or migㅤ}$  <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>
 
-text
+$\color{#970000}\text{spiderverse fans int }$  
 
-text
+$\color{#970000}\text{ㅤpt semi-hiatus  }$  
 
-text
+$\color{#970000}\text{ㅤDNI under 14ㅤ}$  
+
+ㅤ
 
 </details>
 
