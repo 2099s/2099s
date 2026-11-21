@@ -10,7 +10,7 @@
 
 </div>
 
-$\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$  
+$\color{#970000}\text{SM2099 big enthusiastㅤ}$  
 
 <table>
 <tr><td align="center">
