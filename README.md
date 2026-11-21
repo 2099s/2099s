@@ -18,7 +18,7 @@ ${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\c
 </details>
 
 ㅤ
-
+[新book](https://miguelohara.atabook.org/)
 ㅤ
 
 ㅤ
