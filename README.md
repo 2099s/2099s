@@ -25,11 +25,11 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
 </details>
 
 </div>
-
+ㅤ
 </div>
-
+ㅤ
 </div>
-
+ㅤ
 </details>
 
 <details>
