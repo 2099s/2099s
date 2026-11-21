@@ -1,6 +1,9 @@
-<div align="left">
+<div align="center">
   <sup> Best viewed on PC </sup> 
   
+<p align="center">
+<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=b70003&labelColor=02020e"/></a>
+<p align="center">
   
 <img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
@@ -17,12 +20,6 @@ $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$
 
 </td></tr>
 </table>
-
-
-<p align="center">
-<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=b70003&labelColor=02020e"/></a>
-<p align="center">
-
 
 
 <!--miguel-->
