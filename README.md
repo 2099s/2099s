@@ -9,27 +9,35 @@
 
 $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$  
 
-<p align="center">
-<a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>    
-<p align="center">
+<table>
+<tr><td align="center">
+  
+  ${\color{#6E0005}P\color{#9C0008}o\color{#CC000A}n\color{#ED000B}y \space \color{#F70C17}T\color{#ED000B}o \color{#CC000A}w\color{#9C0008}n\color{#6E0005}´s \space \color{#9C0008}M\color{#CC000A}i\color{#ED000B}g \color{#F70C17}u\color{#ED000B}e\color{#CC000A}l \space \color{#9C0008}O´ \color{#6E0005} H\color{#9C0008}a\color{#CC000A}r\color{#ED000B}a}$
+
+
+</td></tr>
+</table>
+
 
 <p align="center">
 <a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=b70003&labelColor=02020e"/></a>
 <p align="center">
 
-<p align="center">ㅤ
-<table>
-  <tr>
-      <td>
-     ${\color{#6E0005}P\color{#9C0008}o\color{#CC000A}n\color{#ED000B}y \space \color{#F70C17}T\color{#ED000B}o \color{#CC000A}w\color{#9C0008}n\color{#6E0005}´s \space \color{#9C0008}M\color{#CC000A}i\color{#ED000B}g \color{#F70C17}u\color{#ED000B}e\color{#CC000A}l \space \color{#9C0008}O´ \color{#6E0005} H\color{#9C0008}a\color{#CC000A}r\color{#ED000B}a}$ <br>
-   </td>
-    </tr>
-<p align="center">
+
 
 <!--miguel-->
 
 
 <div align="center">
+
+<p align="center">
+<a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>    
+<p align="center">
+
+
+
+
+
 
 </details>
 
