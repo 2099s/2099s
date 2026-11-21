@@ -13,7 +13,7 @@
 
 </div>
 
-$\color{#D41313}\text{SM2099 big enthusiastㅤ}$  
+$\color{#E60000}\text{SM2099 big enthusiastㅤ}$  
 
 <table>
 <tr><td align="center">
@@ -25,10 +25,10 @@ $\color{#D41313}\text{SM2099 big enthusiastㅤ}$
 </table>
 
 
-$\color{#D41313}\text{abyㅤᵒʳㅤmigㅤ}$  <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=50&height=30&lines=s-ata" alt="Typing SVG" /></a>
+$\color{#E60000}\text{abyㅤᵒʳㅤmigㅤ}$    <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=E60000&center=true&vCenter=true&width=50&height=18&lines=s-ata" alt="Typing SVG" /></a>
 
 
-${\color{#6E0005}𝐬\color{#9C0008}𝐩\color{#CC000A}𝐢\color{#ED000B}𝐝\color{#F70C17}𝐞\color{#ED000B}𝐫 \color{#CC000A}𝐯\color{#9C0008}𝐞\color{#6E0005}𝐫\color{#9C0008}𝐬\color{#CC000A}𝐞}$  $\color{#D41313}\text{fans ff2 int }$ 
+${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\color{#E0DCFA}𝐞\color{#C9C3FA}𝐫 \color{#C9C3FA}𝐯\color{#A89DFA}𝐞\color{#C9C3FA}𝐫\color{#E0DCFA}𝐬\color{#F1F0F7}𝐞}$  $\color{#FF0011}\text{fans ff2 int }$ 
 
 
 ㅤ
