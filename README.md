@@ -24,9 +24,10 @@ $\color{#970000}\text{SM2099 big enthusiastㅤ}$
 
 <!--miguel-->
 
-$\color{#970000}\text{aby or migㅤ}$  <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>
+$\color{#970000}\text{aby ᵒʳ migㅤ}$  <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>
 
-$\color{#E60000}\text{spiderverse}$  $\color{#970000}\text{fans int }$ 
+
+${\color{#6E0005}𝐬\color{#9C0008}𝐩\color{#CC000A}𝐢\color{#ED000B}𝐝\color{#F70C17}𝐞\color{#ED000B}𝐫 \color{#CC000A}𝐯\color{#9C0008}𝐞\color{#6E0005}𝐫\color{#9C0008}𝐬\color{#CC000A}𝐞}$  $\color{#970000}\text{fans int }$ 
 
 $\color{#970000}\text{ㅤpt semi-hiatus  }$  
 
