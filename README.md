@@ -36,7 +36,7 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
 </details>
 
 <details>
-  <summary>  <img src="https://file.garden/aut_XMAAA1wDVbO2/Untitled198_20261104155540.png" width="50" alt="2099"></summary>
+  <summary>  rewards</summary>
 
 <table>
 <tr><td align="center">
