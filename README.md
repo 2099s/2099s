@@ -33,7 +33,7 @@ $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$
 
 
 <p align="center">
-<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?label=spiders&color=900202&labelColor=09090d"/></a>
+<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=%E3%85%A4%F0%9F%95%B7%20%E3%85%A4&color=b70003&labelColor=02020e"/></a>
 <p align="center">
 
 <!--miguel-->
