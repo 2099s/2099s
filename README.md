@@ -26,7 +26,7 @@ $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$
 <table>
   <tr>
       <td>
-     　${\color{#6E0005}P\color{#9C0008}o\color{#CC000A}n\color{#ED000B}y \space \color{#F70C17}T\color{#ED000B}o \color{#CC000A}w\color{#9C0008}n\color{#6E0005}s \space \color{#9C0008}M\color{#CC000A}i\color{#ED000B}g \color{#F70C17}u\color{#ED000B}e\color{#CC000A}l \space \color{#9C0008}O \color{#6E0005} H\color{#9C0008}a\color{#CC000A}r\color{#ED000B}a}$　 <br>
+     ${\color{#6E0005}P\color{#9C0008}o\color{#CC000A}n\color{#ED000B}y \space \color{#F70C17}T\color{#ED000B}o \color{#CC000A}w\color{#9C0008}n\color{#6E0005}s \space \color{#9C0008}M\color{#CC000A}i\color{#ED000B}g \color{#F70C17}u\color{#ED000B}e\color{#CC000A}l \space \color{#9C0008}O \color{#6E0005} H\color{#9C0008}a\color{#CC000A}r\color{#ED000B}a}$ <br>
    </td>
     </tr>
 <p align="left">
