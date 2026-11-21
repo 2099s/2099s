@@ -22,9 +22,15 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
  wip
 <p align="center">
  
-
 </details>
 
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
 <details>
   <summary>  awards</summary>
 
