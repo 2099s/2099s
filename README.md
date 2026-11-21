@@ -32,7 +32,7 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
 </details>
 
 <details>
-  <summary>  rewards</summary>
+  <summary>  awards</summary>
 
 <table>
 <tr><td align="center">
