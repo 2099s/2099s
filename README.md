@@ -30,8 +30,6 @@ ${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\c
 ㅤ
 
 ㅤ
-
-ㅤ
 ㅤ
 <details>
   <summary>  <img src="https://file.garden/aut_XMAAA1wDVbO2/Untitled198_20261104155540.png" width="50" alt="2099"></summary>
