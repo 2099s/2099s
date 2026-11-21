@@ -8,11 +8,11 @@
 <img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
 
-<div align="center">
+<div align="left">
 
 <p align="center">
 <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=25&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>    
-<p align="center">
+<p align="left">
 
 </div>
 
