@@ -33,7 +33,7 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
 ㅤ
 ㅤ
 <details>
-  <summary>  awards</summary>
+  <summary>  <img src="https://file.garden/aut_XMAAA1wDVbO2/Untitled198_20261104155540.png" width="50" alt="2099"></summary>
 
 <table>
 <tr><td align="center">
