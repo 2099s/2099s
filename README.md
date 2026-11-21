@@ -1,11 +1,13 @@
-
+<div align="left">
+  <sup> Best viewed on PC </sup> 
+  
   
 <img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
 
 </div>
 
-$\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$ $\color{#970000}\text{ㅤESP/ENG (not native)ㅤ}$  
+$\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$  
 
 <p align="center">
 <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=150162&center=true&vCenter=true&width=200&height=30&lines=s-ata" alt="Typing SVG" /></a>    
