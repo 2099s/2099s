@@ -30,6 +30,11 @@ $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$
 
 <!--miguel-->
 
+text
+
+text
+
+text
 
 
 </details>
