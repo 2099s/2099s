@@ -1,6 +1,6 @@
-<div align="center">
-  <sup> Best viewed on PC </sup> 
-  
+<div align="left">
+  <sup> ⠀ ⠀⠀  ⠀⠀  ⠀⠀  ⠀⠀ ⠀ ⠀  ⠀⠀  ⠀⠀ Best viewed on PC </sup> 
+
 <p align="center">
 <a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=b70003&labelColor=02020e"/></a>
 <p align="center">
