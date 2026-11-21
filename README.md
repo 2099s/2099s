@@ -20,9 +20,28 @@ $\color{#970000}\text{ㅤSM2099 big enthusiastㅤ}$
 <details>
   <summary>  <img src="https://file.garden/aut_XMAAA1wDVbO2/Untitled198_20261104155540.png" width="50" alt="2099"></summary>
 
-##### <p align="center"> [fans town](https://github.com/fans-town) ⠀⠀ [walk of fame](https://github.com/pt-walk-of-fame) ⠀⠀ [pt hall of media](https://github.com/pt-hall-of-media) ⠀⠀ [pt of awesomeness](https://github.com/pt-of-awesomeness) ⠀⠀ [pt contributers](https://github.com/pt-contributers) ⠀⠀ [title town](https://github.com/title-town) ⠀⠀ [pt fashion](https://github.com/pt-fashion) ⠀⠀ [pony achievements](https://github.com/ponychievements) ⠀⠀ [characters of pt](https://github.com/charactersofpt)  ⠀⠀[pony town nominations](https://github.com/ponytown-nominations) ⠀⠀ [pt medals](https://github.com/pt-medals) ⠀⠀ [folktown](https://github.com/FOLKTOWN) ⠀⠀ [pony town rewards](https://github.com/Ponytowns-rewards) ⠀⠀ [music town](https://github.com/music-town) ⠀⠀ [pt piddles jet](https://github.com/piddlesjet) ⠀⠀ [pony honors](https://github.com/Ponyhonors) ⠀⠀ [pt daggerstruckmage](https://github.com/daggerstruckmage) ⠀⠀ [pt every pony](https://github.com/pt-everypony) ⠀⠀ [knox event](https://github.com/Knox-Event) ⠀⠀ [the tempist](https://github.com/THE-TEMPIST) ⠀⠀ [pony-town nominations](https://github.com/pony-town-nominations) ⠀⠀ [creepy-town](https://github.com/creepy-town-hall)</p>
+<table>
+<tr><td align="center">
   
+<a href="https://github.com/fans-town"><b>fans town</b></a> ⠀⠀ <a href="https://github.com/pt-walk-of-fame"><b>pt walk of fame</b></a> ⠀⠀ <a href="https://github.com/pt-hall-of-media"><b>pt hall of media</b></a> ⠀⠀ <a href="https://github.com/pt-of-awesomeness"><b>pt of awesomeness</b></a> ⠀⠀ <a href="https://github.com/pt-contributers"><b>pt contributers</b></a> ⠀⠀ <a href="https://github.com/title-town"><b>title town</b></a> ⠀⠀ <a href="https://github.com/pt-fashion"><b>pt fashion</b></a> ⠀⠀ <a href="https://github.com/ponychievements"><b>pony achievements</b></a> ⠀⠀ <a href="https://github.com/charactersofpt"><b>characters of pt</b></a> ⠀⠀ <a href="https://github.com/ponytown-nominations"><b>pony town nominations</b></a> ⠀⠀ <a href="https://github.com/pt-medals"><b>pt medals</b></a> ⠀⠀ <a href="https://github.com/FOLKTOWN"><b>folktown</b></a>  ⠀⠀ <a href="https://github.com/Ponytowns-rewards"><b>pt rewards</b></a> ⠀⠀ <a href="https://github.com/music-town"><b>music town</b></a> ⠀⠀ <a href="https://github.com/piddlesjet"><b>pt piddles.jet</b></a> ⠀⠀ <a href="https://github.com/Ponyhonors"><b>pony honors</b></a> ⠀⠀ <a href="https://github.com/daggerstruckmage"><b>pt daggerstruckmage</b></a> ⠀⠀ <a href="https://github.com/pt-everypony"><b>pt everypony</b></a> ⠀⠀ <a href="https://github.com/Knox-Event"><b>knox event</b></a> ⠀⠀ <a href="https://github.com/THE-TEMPIST"><b>the tempist</b></a> ⠀⠀ <a href="https://github.com/pony-town-nominations"><b>pt nominations</b></a> ⠀⠀ <a href="https://github.com/creepy-town-hall"><b>creepy town</b></a>
+
+
+</td></tr>
+</table>
+
 </details>
+
+<table>
+<tr><td align="center">
+  
+<a href="https://github.com/fans-town"><b>fans town</b></a> ⠀⠀ <a href="https://github.com/pt-walk-of-fame"><b>pt walk of fame</b></a> ⠀⠀ <a href="https://github.com/pt-hall-of-media"><b>pt hall of media</b></a> ⠀⠀ <a href="https://github.com/pt-of-awesomeness"><b>pt of awesomeness</b></a> ⠀⠀ <a href="https://github.com/pt-contributers"><b>pt contributers</b></a> ⠀⠀ <a href="https://github.com/title-town"><b>title town</b></a> ⠀⠀ <a href="https://github.com/pt-fashion"><b>pt fashion</b></a> ⠀⠀ <a href="https://github.com/ponychievements"><b>pony achievements</b></a> ⠀⠀ <a href="https://github.com/charactersofpt"><b>characters of pt</b></a> ⠀⠀ <a href="https://github.com/ponytown-nominations"><b>pony town nominations</b></a> ⠀⠀ <a href="https://github.com/pt-medals"><b>pt medals</b></a> ⠀⠀ <a href="https://github.com/FOLKTOWN"><b>folktown</b></a>  ⠀⠀ <a href="https://github.com/Ponytowns-rewards"><b>pt rewards</b></a> ⠀⠀ <a href="https://github.com/music-town"><b>music town</b></a> ⠀⠀ <a href="https://github.com/piddlesjet"><b>pt piddles.jet</b></a> ⠀⠀ <a href="https://github.com/Ponyhonors"><b>pony honors</b></a> ⠀⠀ <a href="https://github.com/daggerstruckmage"><b>pt daggerstruckmage</b></a> ⠀⠀ <a href="https://github.com/pt-everypony"><b>pt everypony</b></a> ⠀⠀ <a href="https://github.com/Knox-Event"><b>knox event</b></a> ⠀⠀ <a href="https://github.com/THE-TEMPIST"><b>the tempist</b></a> ⠀⠀ <a href="https://github.com/pony-town-nominations"><b>pt nominations</b></a> ⠀⠀ <a href="https://github.com/creepy-town-hall"><b>creepy town</b></a>
+
+
+</td></tr>
+</table>
+
+
+
 
 <p align="left">ㅤ
 <table>
