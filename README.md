@@ -24,10 +24,11 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
  
 </details>
 
-ㅤ
+</div>
 
+</div>
 
-ㅤ
+</div>
 
 </details>
 
