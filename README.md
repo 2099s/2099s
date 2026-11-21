@@ -2,15 +2,16 @@
 <!--gay-->
  
 <p align="left">
- ⠀⠀  ⠀ ⠀ ⠀  ⠀  ⠀  <a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=D9041C&labelColor=02020e"/></a>
+ ⠀⠀  ⠀ ⠀ ⠀  ⠀  ⠀  ⠀  ⠀  <a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=D9041C&labelColor=02020e"/></a>
 <p align="center">
   
-<img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
+<img width="350" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
 
 </div>
 
-$\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$  
+$\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
+  ⠀
 ${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\color{#E0DCFA}𝐞\color{#C9C3FA}𝐫 \color{#C9C3FA}𝐯\color{#A89DFA}𝐞\color{#C9C3FA}𝐫\color{#E0DCFA}𝐬\color{#F1F0F7}𝐞}$  fans int freely
  
  
