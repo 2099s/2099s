@@ -30,13 +30,13 @@ $\color{#970000}\text{abyㅤᵒʳㅤmigㅤ}$  <a href="https://miguelohara.atabo
 
 ${\color{#6E0005}𝐬\color{#9C0008}𝐩\color{#CC000A}𝐢\color{#ED000B}𝐝\color{#F70C17}𝐞\color{#ED000B}𝐫 \color{#CC000A}𝐯\color{#9C0008}𝐞\color{#6E0005}𝐫\color{#9C0008}𝐬\color{#CC000A}𝐞}$  $\color{#970000}\text{fans ff2 int }$ 
 
- 
+ㅤ
 
- 
+ㅤ
 
+ㅤ
 
-
-  
+ㅤ
 
 </details>
 
