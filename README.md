@@ -15,15 +15,7 @@
 
 $\color{#E60000}\text{SM2099 big enthusiastㅤ}$  
 
-<table>
-<tr><td align="center">
-  
-  ${\color{#9C0008}𝐏\color{#9C0008}𝐨\color{#CC000A}𝐧\color{#ED000B}𝐲 \space \color{#F70C17}𝐓\color{#ED000B}𝐨 \color{#CC000A}𝐰\color{#9C0008}𝐧\color{#6E0005}𝐬 \space \color{#9C0008}𝐌\color{#CC000A}𝐢\color{#ED000B}𝐠 \color{#F70C17}𝐮\color{#ED000B}𝐞\color{#CC000A}𝐥 \space \color{#9C0008}𝐎 \color{#6E0005} 𝐇\color{#9C0008}𝐚\color{#CC000A}𝐫\color{#ED000B}𝐚}$
-
-
-</td></tr>
-</table>
-
+ㅤ
 
 $\color{#E60000}\text{abyㅤᵒʳㅤmigㅤ}$    <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=E60000&center=true&vCenter=true&width=50&height=18&lines=s-ata" alt="Typing SVG" /></a>
 
