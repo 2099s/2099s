@@ -1,5 +1,4 @@
-<div align="left">
-  <sup> ⠀ ⠀⠀  ⠀ ⠀  ⠀⠀  ⠀⠀ ⠀ ⠀  ⠀⠀  Best viewed on PC </sup>
+
 <!--gay-->
  
 <p align="left">
