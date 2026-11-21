@@ -12,10 +12,6 @@
 
 $\color{#E60000}\text{SM2099 big enthusiastㅤ}$  
 
-ㅤ
-
-<a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=E60000&center=true&vCenter=true&width=50&height=18&lines=s-ata" alt="Typing SVG" /></a>
-
 
 ${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\color{#E0DCFA}𝐞\color{#C9C3FA}𝐫 \color{#C9C3FA}𝐯\color{#A89DFA}𝐞\color{#C9C3FA}𝐫\color{#E0DCFA}𝐬\color{#F1F0F7}𝐞}$  $\color{#FF0011}\text{fans ff2 int }$ 
 
