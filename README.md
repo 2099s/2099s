@@ -8,7 +8,7 @@
  ⠀⠀  ⠀ ⠀ ⠀  ⠀⠀  ⠀⠀ ⠀ ⠀ <a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=D9041C&labelColor=02020e"/></a>
 <p align="center">
   
-<img width="250" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled224_20261121184949.png" />
+<img width="365" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
 
 
 </div>
