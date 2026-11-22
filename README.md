@@ -10,7 +10,13 @@
 <p align="center">
 $\color{#f4f2f2}\text{ㅤwipㅤ}$
 <p align="center">
+
   
+<p align="center"
+  
+  [新book](https://miguelohara.atabook.org/)
+  
+<p align="center">
 
 <details>
   <summary>  $\color{#f4f2f2}\text{ㅤawardsㅤ}$</summary>
