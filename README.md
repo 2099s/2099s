@@ -16,7 +16,7 @@ $\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
 ${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\color{#E0DCFA}𝐞\color{#C9C3FA}𝐫 \color{#C9C3FA}𝐯\color{#A89DFA}𝐞\color{#C9C3FA}𝐫\color{#E0DCFA}𝐬\color{#F1F0F7}𝐞}$  fans int freely
 ㅤ
 
-wip    <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=d90303&center=true&vCenter=true&width=80&height=20&lines=s-ata" alt="Typing SVG" /></a>    
+wip    <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=d90303&center=true&vCenter=true&width=120&height=20&lines=s-ata" alt="Typing SVG" /></a>    
 <p align="center">
 
 ㅤ
