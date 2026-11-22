@@ -4,7 +4,14 @@
 <p align="center">
 ㅤ<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=D9041C&labelColor=02020e"/></a>
 <p align="center">
+
+
+
   
+ㅤ
+<details>
+  <summary>  awards</summary>
+ 
 <table>
 <tr><td align="center">
 
@@ -26,5 +33,5 @@
 </td></tr>
 </table>
 
-
+</details>
 
