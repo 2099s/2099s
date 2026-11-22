@@ -13,7 +13,7 @@ $\color{#f4f2f2}\text{ㅤwipㅤ}$
   
 
 <details>
-  <summary>  awards</summary>
+  <summary>  $\color{#f4f2f2}\text{ㅤawardsㅤ}$</summary>
 
 <table>
 <tr><td align="center">
