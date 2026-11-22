@@ -1,37 +1,10 @@
 
 <!--gay-->
  
-<p align="left">
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=D9041C&labelColor=02020e"/></a>
+<p align="center">
+ㅤ<a href="https://hits.sh/github.com/2099s/"><img alt="Hits" src="https://hits.sh/github.com/2099s.svg?style=flat-square&label=spiders&color=D9041C&labelColor=02020e"/></a>
 <p align="center">
   
-<img width="350" align=left alt="miguel" src="https://github.com/2099s/2099s/blob/main/Untitled210_20261118153725.png" />
-
-
-</div>
-
-$\color{#E60000}\text{SM2099ㅤhugeㅤ enthusiastㅤ}$
-</details>
-
-${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\color{#E0DCFA}𝐞\color{#C9C3FA}𝐫 \color{#C9C3FA}𝐯\color{#A89DFA}𝐞\color{#C9C3FA}𝐫\color{#E0DCFA}𝐬\color{#F1F0F7}𝐞}$  fans int freely
-ㅤ
-
- wip    <a href="https://miguelohara.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=20&duration=1&pause=5000&color=d90303&center=true&vCenter=true&width=120&height=20&lines=s-ata" alt="Typing SVG" /></a>    
-<p align="center">
-
-ㅤ
-
-ㅤ
-
-ㅤ
-
-ㅤ
-
-ㅤ
-ㅤ
-<details>
-  <summary>  <img src="https://file.garden/aut_XMAAA1wDVbO2/Untitled198_20261104155540.png" width="50" alt="2099"></summary>
-
 <table>
 <tr><td align="center">
 
@@ -53,6 +26,5 @@ ${\color{#A89DFA}𝐬\color{#C9C3FA}𝐩\color{#E0DCFA}𝐢\color{#F1F0F7}𝐝\c
 </td></tr>
 </table>
 
-</details>
 
 
